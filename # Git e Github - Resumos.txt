@@ -1,0 +1,42 @@
+# Git e Github - Resumos
+
+Aqui estão alguns comandos necessários para o uso frequente do Git Bash. 
+
+
+## 📝Comandos 
+| Comando| Uso | Exemplo |
+| ----| ------ | --------|
+|mkdir| Criar novos diretórios no diretórios local.| $ mkdir documentos. 
+| git config|Configura a id. do usuário, incluindo nome e e-mail, que serão usados em cada commit.|$ git config --global user.name "Seu nome".
+|git init| Cria um novo repositório Git. Use esse comando para iniciar um novo projeto. |$ git init
+|git add|Adiciona arquivos ao índice para serem incluídos no próximo commit. Pode adicionar arquivos específicos ou todos os arquivos modificados.|Esp: $ git add seu_arquivo. Mod: $ git add
+| gitignore| Ignorar elementos que não deseja salvar. É uma ferramenta para manter seu repositório limpo. |$ gitignore
+| git clone| Cria uma cópia exata de um repositório existente. Útil para obter o código de um projeto já em andamento. |$ git clone <URL do seu projeto>
+|git commit| Move os arquivos da área de staging para o repositório local. |$ git commit -m "Minha mensagem de commit"
+|git log| Ele permite que você liste e filtre o histórico do projeto e pesquise alterações específicas - commit |$ git log
+|git push| Envia as alterações do repositório local para o repositório remoto (como o GitHub) |$ git push origin main
+|git pull|Obtém as alterações do repositório remoto e mescla com o repositório local.| $ git pull origin main
+|git branch |Lista, cria ou exclui branches.|$ git merge minha_branch
+| git status| É utilizado para verificar o estado do seu diretório de trabalho e da área de staging em repositórios Git. |$ git status
+|          |  Exibe o status de forma resumida.|$ git status -s
+||Mostra informações sobre o branch atual e o tracking mesmo no formato resumido.|$ git status -b
+||Exibe o número de entradas atualmente guardadas.|$ git status --show-stash
+|| Fornece uma saída fácil de ser analisada por scripts. |$ git status --porcelain
+||Exibe o status de forma detalhada.|$ git status --long
+||Além dos nomes dos arquivos modificados, mostra as alterações que estão preparadas para serem commitadas. Se usado duas vezes (-v -v), exibe as mudanças que ainda não foram preparadas |$ git status -v
+|||Mostra os arquivos não rastreados. .|$ git status -u
+
+
+
+
+
+```
+
+```
+
+
+## 📜Referências 
+- [Training Github](https://training.github.com/downloads/pt_PT/github-git-cheat-sheet.pdf)
+
+
+
