@@ -49,10 +49,15 @@ Agora, imagine um mural gigante em uma praça online, onde você pode compartilh
 | ----| ------ |
 |Fazendo o download do Git|
 |Fazendo uma conta no Github|
-|Comandos Git |
-|Gravando alterações no Repositório local  | 
+|Comandos Git |Clique aqui[https://sway.cloud.microsoft/oCcB3reAWRqKUFPA?ref=Link]
+|Configurando o Git|
+|Autenticando chave via Token|
+|Autenticando chave via SSH|
+|Criando e clonando repositórios locais  | 
+|Salvando alterações no repositório local|
 |Desfazendo alterações no Repositório local |
 |Enviando e baixando alterações no Repositório remoto |
+|O que é Branches?|
 |Trabalhando com Branches: criando, mesclando, deletando e tratando conflitos|
 
 
