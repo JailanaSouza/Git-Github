@@ -49,7 +49,7 @@ Agora, imagine um mural gigante em uma praça online, onde você pode compartilh
 | ----| ------ |
 |Fazendo o download do Git|
 |Fazendo uma conta no Github|
-|Comandos Git |Clique aqui[https://sway.cloud.microsoft/oCcB3reAWRqKUFPA?ref=Link]
+|Comandos Git |[Clique aqui](https://sway.cloud.microsoft/oCcB3reAWRqKUFPA?ref=Link)
 |Configurando o Git|
 |Autenticando chave via Token|
 |Autenticando chave via SSH|
