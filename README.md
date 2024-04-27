@@ -62,6 +62,6 @@ Agora, imagine um mural gigante em uma praça online, onde você pode compartilh
 
 
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailanasouza/)
 ## 📜Referências 
 - [Digital Inovation One](dio.me)
